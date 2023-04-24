@@ -30,10 +30,10 @@ html {
   }
   
   /* Add a color to the active/current link */
-  /* .navbar a.active {
+  .navbar a.active {
     background-color: #04AA6D;
     color: white;
-  } */
+  }
   
   /* Centered section inside the top navigation */
   .navbar-centered a {
