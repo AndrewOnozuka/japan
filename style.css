@@ -105,6 +105,10 @@ html {
     /* border: 3px solid rgb(0, 128, 0); */
   }
 
+  .warning {
+    color: red;
+  }
+
 .center {
     display: block;
     margin-left: auto;
