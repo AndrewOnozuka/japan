@@ -1,0 +1,3 @@
+- make heading top space dependent on viewport
+- implement photo gallery
+- implement learning japanese section
